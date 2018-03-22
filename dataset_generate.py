@@ -2,7 +2,7 @@
 """
 Created on Tue Sep  5 12:08:17 2017
 
-@author: Akhilesh
+@author: Karthik
 """
 
 import random
