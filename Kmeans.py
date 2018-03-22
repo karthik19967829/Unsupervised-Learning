@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 12 03:17:05 2017
 
-@author: Akhilesh
+@author: Karthik G
 """
 
 # K-Means Clustering
